@@ -29,6 +29,9 @@ public class Main {
                 System.out.println("INDICE : Votre Nombre est Supérieur au nombre Aléatoire , réessayer");
             }
         }
-
+        /* condition lorsque le joueur ne trouve pas le nombre après ses 10 essais */
+        if (!gagne) {
+            System.out.println("Vous avez perdu, Le nombre correcte était " + nombre);
+        }
     }
 }
