@@ -7,5 +7,8 @@ public class Main {
         System.out.println("Bienvenue à Deviner un nombre ");
         System.out.println("Vous devez deviner un nombre compris entre 1 et 100 inclus");
 
+        /* variable pour determiner la perte ou le gain du jeu */
+        boolean gagne = false;
+
     }
 }
