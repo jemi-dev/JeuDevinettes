@@ -21,3 +21,6 @@ en 10 essais maximum.
 3. Exécuter la classe "Main.java"
 4. Entrer un nombre entre 1 et 100 dans la console
 
+## Auteur
+AKA ESTHER JEMIMA
+
